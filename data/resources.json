@@ -1,22 +1,22 @@
 [
 {
-"title": "Climate Action Toolkit 2025",
-"summary": "A concise guide for small cities developing climate action plans.",
-"link": "https://example.org/climate_toolkit_2025.pdf",
-"category": "Climate Planning",
-"tags": ["climate", "planning", "toolkit"],
-"source": "EPA",
+"title": "Bear Blog",
+"summary": "A clean & simple personal web & blogging site.",
+"link": "https://bearblog.dev/",
+"category": "Personal blogging",
+"tags": ["simple web design", "blogging"],
+"source": "Bear Blog",
 "year": 2025,
-"type": "PDF"
+"type": "Web"
 },
 {
-"title": "Overdose Prevention: Local Data Guide",
-"summary": "Step-by-step guide to building a local overdose tracking dashboard.",
-"link": "https://example.org/overdose_data_guide.html",
-"category": "Public Health",
-"tags": ["health", "data", "overdose"],
-"source": "County Health Dept",
-"year": 2024,
+"title": "plaintextsports.com",
+"summary": "A simple text-based site for sports scores.",
+"link": "https://plaintextsports.com/",
+"category": "Sports news",
+"tags": ["sports", "news", "simple web design"],
+"source": "https://plaintextsports.com/",
+"year": 2025,
 "type": "Web"
 },
 {
