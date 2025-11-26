@@ -20,13 +20,13 @@
 "type": "Web"
 },
 {
-"title": "Volunteer Management Basics",
-"summary": "Short PDF on best practices for volunteer recruitment and retention.",
-"link": "https://example.org/volunteer_basics.pdf",
-"category": "Operations",
-"tags": ["volunteer", "management", "ops"],
-"source": "Nonprofit Resource Center",
-"year": 2021,
-"type": "PDF"
+"title": "The Fig Tree - Community Resources, Agencies and Ministries",
+"summary": "The Fig Tree Directory of local resources in Spokane, WA",
+"link": "https://www.thefigtree.org/connections-resources.html",
+"category": "Spokane",
+"tags": ["resources", "simple web design"],
+"source": "https://www.thefigtree.org/connections-resources.html",
+"year": 2025,
+"type": "Web"
 }
 ]
