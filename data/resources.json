@@ -28,5 +28,45 @@
 "source": "https://www.thefigtree.org/connections-resources.html",
 "year": 2025,
 "type": "Web"
-}
+},
+{
+"title": "Behavioral Risk Factor Surveillance System (BRFSS)",
+"summary": "A yearly survey that measures changes in the health of people in Washington state. Data can be requested through an online form.",
+"link": "https://doh.wa.gov/data-and-statistical-reports/data-systems/behavioral-risk-factor-surveillance-system-brfss",
+"category": ["Spokane", "Public Health Data"],
+"tags": ["data source", "survey"],
+"source": "https://doh.wa.gov/data-and-statistical-reports/data-systems/behavioral-risk-factor-surveillance-system-brfss",
+"year": 2025,
+"type": "Web"
+},
+{
+"title": "Healthy Youth Survey",
+"summary": "A biennial survey of 6th - 12th graders that measures wellbeing in Washington state.",
+"link": "https://doh.wa.gov/data-and-statistical-reports/data-systems/healthy-youth-survey",
+"category": ["Public Health Data"],
+"tags": ["data source", "survey"],
+"source": "https://doh.wa.gov/data-and-statistical-reports/data-systems/healthy-youth-survey",
+"year": 2025,
+"type": "Web"
+},
+  {
+"title": "Washington Department of Health Data Topics A-Z",
+"summary": "A page with an alphabetized list of linked pages to health topics and related data.",
+"link": "https://doh.wa.gov/data-and-statistical-reports/data-topics-z",
+"category": ["Public Health Data", "Washington state"],
+"tags": ["resources", "data source", "survey"],
+"source": "Washington State Department of Health",
+"year": 2025,
+"type": "Web"
+},
+    {
+"title": "County Health Insights",
+"summary": "A public health resource for counties in Eastern Washington that includes health indicators, dashboards, data briefs, and reports.",
+"link": "https://countyhealthinsights.org/",
+"category": ["Public Health Data", "Spokane"],
+"tags": ["health indicators", "health data"],
+"source": "Spokane Regional Health District",
+"year": 2025,
+"type": "Web"
+},
 ]
